@@ -711,6 +711,7 @@ footer {
     
     .hero h1 {
         font-size: 2.3rem;
+        
     }
     
     .about-content {
@@ -757,6 +758,7 @@ footer {
     
     .hero h1 {
         font-size: 2rem;
+        padding-top: 100px;
     }
     
     .tagline {
@@ -814,6 +816,7 @@ footer {
 @media (max-width: 480px) {
     .hero h1 {
         font-size: 1.8rem;
+        padding-top: 100px;
     }
     
     .hero p {
